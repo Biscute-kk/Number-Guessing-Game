@@ -11,7 +11,6 @@ async function mediumMode(){
             var guessCount=0;
             var result=false;
             const start= Date.now();
-            console.log(`\nmy guess was ${randomNum}`)  
             while (guessCount<5){
                 
                 var val= await r1.question(`\nGuess ${guessCount+1} :`);

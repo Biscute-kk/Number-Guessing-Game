@@ -1,8 +1,52 @@
 {
-  "Easy": {},
-  "Medium": {},
-  "Hard": {
-    "timetaken": 2.458,
-    "guessCount": 3
-  }
+  "Hard": [
+    {
+      "timetaken": 2.11,
+      "guessCount": 1
+    },
+    {
+      "timetaken": 2.529,
+      "guessCount": 1
+    },
+    {
+      "timetaken": 22.448,
+      "guessCount": 2
+    },
+    {
+      "timetaken": 3.545,
+      "guessCount": 3
+    },
+    {
+      "timetaken": 7.071,
+      "guessCount": 3
+    }
+  ],
+  "Medium": [
+    {
+      "timetaken": 2.096,
+      "guessCount": 1
+    },
+    {
+      "timetaken": 2.983,
+      "guessCount": 1
+    },
+    {
+      "timetaken": 13.831,
+      "guessCount": 1
+    },
+    {
+      "timetaken": 5.573,
+      "guessCount": 2
+    },
+    {
+      "timetaken": 11.697,
+      "guessCount": 3
+    }
+  ],
+  "Easy": [
+    {
+      "timetaken": 32.71,
+      "guessCount": 8
+    }
+  ]
 }
